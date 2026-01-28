@@ -35,7 +35,7 @@
   
   ## 👀 About Me
   <!-- #### :raising_hand: I am a Cloud Engineer from South Korea.<br/> -->
-  #### :fire: I aim to become a Data Scientist.<br/>
+  <!-- #### :fire: I aim to become a Data Scientist.<br/> -->
   #### :mortar_board: B.S. in Biological Sciences, IT Engineering (Double Major)
   <br/>
   <br/>
