@@ -22,6 +22,41 @@
     </div>
     
 -->
+
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  
+</div>
+
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  <!-- #### :raising_hand: I am a Cloud Engineer from South Korea.<br/> -->
+  #### :fire: I aim to become a Data Scientist.<br/>
+  #### :mortar_board: B.S. in Biological Sciences, IT Engineering (Double Major)
+  <br/>
+  <br/>
+  
+  ## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <br/>
+  <br/>
+  <br/>
+  
+  ## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoheeBaek)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoheeBaek)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <!--
 **soheeBaek/soheeBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,5 +75,3 @@ Here are some ideas to get you started:
 <!-- typing 애니메이션
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 -->
-
-<img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
